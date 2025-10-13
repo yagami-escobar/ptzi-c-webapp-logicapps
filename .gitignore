@@ -1,0 +1,19 @@
+# .NET Core build folders
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+
+# MAC:
+.DS_Store
+
+# VS-CODE:
+.vscode/
